@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AelioCode
+- 👋 Hi, I’m Alexis
 - 👀 I’m interested in improve my skills in computing
 - 🌱 I’m currently learning Python
 
