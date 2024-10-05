@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexis
 - 👀 I’m interested in improve my skills in computing
-- 🌱 I’m currently learning Zndroid
+- 🌱 I’m currently learning Android
 
 <!---
 AelioCode/AelioCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
